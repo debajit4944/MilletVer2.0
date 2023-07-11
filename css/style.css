@@ -177,6 +177,11 @@ hr.style5 {
 #mission-detail{
     background-color: #F5FAEF;
 }
+#mission-detail-style-two{
+}
+#path-pradarshak-section-style-two{
+    background-color: #F5FAEF;
+}
 #social-media{
     /* background-color: #F5FAEF; */
 }
@@ -246,7 +251,7 @@ ul.notification-inner a{
 }
 
 #main-footer {
-    background: #212529;
+    background: #7d7c7c;
     color: #fff;
   }
   #main-footer a {
@@ -264,3 +269,70 @@ ul.notification-inner a{
 /* SLick SLider */
 .img-wish{text-align: center !important;}
 .img-wish img{width: 100%;} 
+
+#mission-component-section-one,
+#mission-component-section-two,
+#mission-component-section-three,
+#mission-component-section-five{
+    background-color: #F5FAEF;
+}
+
+#mission-component-section-one ul,
+#mission-component-section-two ul,
+#mission-component-section-three ul,
+#mission-component-section-four ul,
+#mission-component-section-five ul{
+    list-style-type: none;
+    text-align: justify;
+}
+#mission-component-section-one li,
+#mission-component-section-two li,
+#mission-component-section-three li,
+#mission-component-section-four li,
+#mission-component-section-five li{
+    padding-bottom: 10px;
+}
+
+#know-about-millets table{
+    
+    text-align: center;
+}
+#know-about-millets td{
+    border-left:2px solid #198754;
+    border-right:2px solid #198754;
+    padding: 8px 20px;
+}
+#know-about-millets th{
+    border:2px solid #198754;
+    padding: 8px 20px;
+    background-color: #FFC107;
+}
+.last-col{
+    border-bottom:2px solid #198754;
+}
+
+#finger-millet-section,
+#proso-millet-section{
+    background-color: #F5FAEF;
+}
+
+#foxtail-millet-section ul,
+#finger-millet-section ul,
+#proso-millet-section ul{
+    list-style-type: none;
+    text-align: justify;
+}
+
+#foxtail-millet-section li,
+#finger-millet-section li,
+#proso-millet-section li{
+    padding-bottom: 10px;
+}
+
+#foxtail-millet-section h2,
+#finger-millet-section h2,
+#proso-millet-section h2{
+    border-left:5px solid #198754;
+    padding-left: 10px;
+}
+
